@@ -1,2 +1,2 @@
-# Programmers
-Repository for recording Programmers Algorithm problem solving
+# Algorithm
+Repository for recording Algorithm problem solving
